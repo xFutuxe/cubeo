@@ -9,3 +9,4 @@
 -  Cube Skin System
 -  Saving System
 -  Score System Redesign
+-  Discord Intergration
