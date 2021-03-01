@@ -6,7 +6,7 @@
 - [x] Redesigned levels
 -  New changelog menu
 -  New Levels
--  Cube Skin System
--  Saving System
--  Score System Redesign
+-  Cube Skin System (Delayed)
+-  Saving System (Delayed)
+-  Score System Redesign (Delayed)
 - [x] Discord Intergration
