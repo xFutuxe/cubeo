@@ -4,7 +4,7 @@
 
 ## Features being worked on
 - [x] Redesigned levels
--  New changelog menu
+- [x] New changelog menu
 -  New Levels
 -  Cube Skin System (Delayed)
 -  Saving System (Delayed)
