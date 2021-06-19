@@ -1,4 +1,4 @@
-# Cubeo - A Level based unity game
+# Cubeo - A Level based unity game DISCONTINUED
 
 ![image](https://i.imgur.com/g5A2ltM.png)
 
